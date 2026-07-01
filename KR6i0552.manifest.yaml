@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR6i0552/v1
+canonical_location: https://kanripo.org/bkk/KR6i0552/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大方廣圓覺修多羅了義經（選錄「附文：金剛禮一本」）
+  identifiers:
+    alt_id:
+    - F12n0546
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F12/F12n0546.xml
+    old_id: F12n0546
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0552_000.yaml, hash: 'sha256:a033d07d732eacb3914bd9d181468c85d795d11f25141ba16eb0801c892f60c5'}
+  - {seq: 1, filename: KR6i0552_001.yaml, hash: 'sha256:0cfb7a43dbd9928f1a8c6dabc2ef79c6f39c84f1d0f2bec2c433cd8a98230763'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0552_001.markers.yaml, hash: 'sha256:3bdac26158863f5d6d24f02678f7e54bff281cbe7f11be28db43a9ee1b054e4d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0552_F_001-juan-start
+    span:
+    - body
+    - 0
+    - 378
+  label: 金剛礼一本
+  type: juan
+  level: 1
+hash: sha256:167f66e3d78b062854f213c0897ce7c02571050633240b317e30de5d253bae90
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

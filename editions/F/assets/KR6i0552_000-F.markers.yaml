@@ -1,0 +1,12 @@
+canonical_identifier: bkk:krp/KR6i0552/F/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6i0552_F_000-0092b, ed: F, 'n': 0092b, source_xml_id: F12.0546.0092b}
+  - {type: line-break, offset: 0, content: '', id: KR6i0552_F_000-0092b01, ed: F, 'n': 0092b01}
+  - {type: xml-element, offset: 0, content: '', id: KR6i0552_F_000-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': Collector}}
+  - {type: xml-element, offset: 5, content: '', id: KR6i0552_F_000-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': Collector}}
+  - {type: line-break, offset: 5, content: '', id: KR6i0552_F_000-0092b02, ed: F, 'n': 0092b02}
+  body: []
+  back: []
+hash: sha256:8eaa9daf3d2b7caa06dc0e5bf902653871e662e1d670f7be967aae2f8f610874

@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0552/F/v1
+canonical_location: https://kanripo.org/bkk/KR6i0552/F/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大方廣圓覺修多羅了義經（選錄「附文：金剛禮一本」）
+  identifiers:
+    krp: KR6i0552
+    cbeta: F12n0546
+    cbeta_old_id: F12n0546
+    authorityid: CA0008072
+    json_key: F0546
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F12/F12n0546.xml
+    old_id: F12n0546
+  edition:
+    short: F
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0552_000-F.yaml, hash: 'sha256:a033d07d732eacb3914bd9d181468c85d795d11f25141ba16eb0801c892f60c5'}
+  - {seq: 1, filename: KR6i0552_001-F.yaml, hash: 'sha256:2aaf013f0d5329e8f378224bfe893789851c70ffa7a9ccd6627959b675947a43'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0552_000-F.markers.yaml, hash: 'sha256:8eaa9daf3d2b7caa06dc0e5bf902653871e662e1d670f7be967aae2f8f610874'}
+  - {seq: 1, role: markers, filename: assets/KR6i0552_001-F.markers.yaml, hash: 'sha256:99feabbe2548f6bce2a6b20e4d3f2d2c17eef263ab5ed257d0ca7912da3c6a62'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0552_F_001-juan-start
+    span:
+    - body
+    - 0
+    - 378
+  label: 金剛礼一本
+  type: juan
+  level: 1
+hash: sha256:7abadd793d7166c115f34bb04f400d824563ea1b118ed960af066d3ecf3d2f19
