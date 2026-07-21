@@ -19,10 +19,10 @@ metadata:
     short: F
 assets:
   parts:
-  - {seq: 0, filename: KR6i0552_000-F.yaml, hash: 'sha256:a033d07d732eacb3914bd9d181468c85d795d11f25141ba16eb0801c892f60c5'}
+  - {seq: 0, filename: KR6i0552_000-F.yaml, hash: 'sha256:2948d71b13b2616dbfccc98c14c7e2557ba5057d2fa9c470a14d1cdff2d42f0d'}
   - {seq: 1, filename: KR6i0552_001-F.yaml, hash: 'sha256:2aaf013f0d5329e8f378224bfe893789851c70ffa7a9ccd6627959b675947a43'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0552_000-F.markers.yaml, hash: 'sha256:8eaa9daf3d2b7caa06dc0e5bf902653871e662e1d670f7be967aae2f8f610874'}
+  - {seq: 0, role: markers, filename: assets/KR6i0552_000-F.markers.yaml, hash: 'sha256:8db22d678e2a4f4b47218d2f9360b67d1bb1818273c878f4138841ede37ad441'}
   - {seq: 1, role: markers, filename: assets/KR6i0552_001-F.markers.yaml, hash: 'sha256:99feabbe2548f6bce2a6b20e4d3f2d2c17eef263ab5ed257d0ca7912da3c6a62'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 金剛礼一本
   type: juan
   level: 1
-hash: sha256:7abadd793d7166c115f34bb04f400d824563ea1b118ed960af066d3ecf3d2f19
+hash: sha256:9bd31cb52687f5f66f545579ed0119d04fa04116db1a435babf7a6f5b203c7be

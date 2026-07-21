@@ -16,10 +16,10 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6i0552_000.yaml, hash: 'sha256:a033d07d732eacb3914bd9d181468c85d795d11f25141ba16eb0801c892f60c5'}
+  - {seq: 0, filename: KR6i0552_000.yaml, hash: 'sha256:2948d71b13b2616dbfccc98c14c7e2557ba5057d2fa9c470a14d1cdff2d42f0d'}
   - {seq: 1, filename: KR6i0552_001.yaml, hash: 'sha256:1abb1c6b9ed70d58bdb7df592c09bcf7698da4c78d905a8c3284b0eb9a05842f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0552_000.markers.yaml, hash: 'sha256:bde137ea68da2e3a15a84021d2e7448390d9a3f486b8adf9078025674cc37de0'}
+  - {seq: 0, role: markers, filename: assets/KR6i0552_000.markers.yaml, hash: 'sha256:69a4f5ed56f9cb9e4b4ef35a632e0685031929396c06500072caa41897063b1b'}
   - {seq: 1, role: markers, filename: assets/KR6i0552_001.markers.yaml, hash: 'sha256:f7804809768cbd8b2181db8a7cc518a1525a861067afc8fa6c02690275b9dcc3'}
 table_of_contents:
 - ref:
@@ -32,7 +32,7 @@ table_of_contents:
   label: 金剛礼一本
   type: juan
   level: 1
-hash: sha256:e77a6e5d6607f91d3b48561e02a825feb29d29cf7b9d9a1248ad16e91f1ddf24
+hash: sha256:ad9de8c3aaecbf2c906225e1a41f2cb66c4229869ef5acc1ae7a088215d80c7d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
